@@ -1,1 +1,1 @@
-# pclock
+# pomodoroclock

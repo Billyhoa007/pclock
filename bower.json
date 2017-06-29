@@ -1,13 +1,15 @@
 {
-  "name": "pclock",
+  "name": "pomodoroclock",
   "description": "clock",
-  "main": "",
+  "main": "index.js",
   "authors": [
-    "Bill Hoag"
+    "Cory Bowles"
   ],
   "license": "UNLICENSED",
-  "homepage": "",
-  "private": true,
+  "keywords": [
+    "clock"
+  ],
+  "homepage": "https://github.com/cbconsulting/pomodoroclock",
   "ignore": [
     "**/.*",
     "node_modules",
